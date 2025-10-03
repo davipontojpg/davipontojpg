@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Davi Costa</h1>
 
 <p align="center">
-  🎯 Estudante apaixonado por Inteligência Artificial, Desenvolvimento e Tecnologia.<br>
+  🎯 Estudante apaixonado por Inteligência Artificial, Dados e Tecnologia.<br>
   🚀 Explorando o mundo da IA, especialmente com Python.<br>
   📘 Aprendendo todos os dias para transformar ideias em soluções.
 </p>
