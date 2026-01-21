@@ -9,8 +9,8 @@
 ---
 
 ### 🧠 Sobre mim
-- 💻 Estudante de Ciência da Computação
-- 📚 Atualmente estudando: Python, Machine Learning e Data Science
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 📚 Atualmente estudando: Python, BI, SQL, Machine Learning 
 - 🎯 Objetivo: Me tornar Engenheiro de Inteligência Artificial e criador de soluções inteligentes
 - 🌱 Gosto de transformar curiosidade em conhecimento aplicado
 
