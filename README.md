@@ -1,7 +1,7 @@
 <h1 align="center">Davi Costa</h1>
 
 <p align="center">
-  🎯🚀 Estudante de ADS explorando a área de dadose inteligência artificial.<br>
+  🎯🚀 Estudante de ADS e futuro Analista de Dados.<br>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ### 💼 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![Power BI](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
