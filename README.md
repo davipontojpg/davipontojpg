@@ -1,7 +1,7 @@
 <h1 align="center">Davi Costa</h1>
 
 <p align="center">
-  🚀 Estudante de ADS e futuro Analista de Dados🎯<br>
+  🚀 Estudante de Banco de Dados e futuro Cientista de Dados🎯<br>
 </p>
 
 ---
