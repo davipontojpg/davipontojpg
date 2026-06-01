@@ -9,7 +9,7 @@
 ### 🧠 Sobre mim
 - 💻 Estudante de Banco de Dados.
 - 📚 Atualmente estudando: Python, BI, SQL, Estatística e Algebra Linear. 
-- 🎯 Objetivo: Explorar a área de dados e poder trabalhar com nela.
+- 🎯 Objetivo: Explorar a área de dados e poder trabalhar com ela.
 - 🌱 Gosto de transformar e analisar, transformando informações em poder.
 
 ---
